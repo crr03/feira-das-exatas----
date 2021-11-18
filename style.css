@@ -1,0 +1,37 @@
+@charset "UTF-8";
+*{
+    margin: 1,5px;
+    padding: 1,5px;
+}
+:root{
+    --font-tudo: Arial, Verdana , helvetica ,sans-serif;
+}
+body{
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+   font-family: var(--font-tudo)
+   
+
+}
+header{
+    background-color: rgb(143, 199, 245);
+}
+nav{
+    background-color: rgb(249, 253, 255);
+}
+main{
+    background-color: rgb(244, 243, 250);
+}
+footer{
+    background-color: rgb(209, 234, 245);
+}
+
+
+
+
+
+
+
+
+
+
